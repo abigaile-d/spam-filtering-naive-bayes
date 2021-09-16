@@ -1,2 +1,2 @@
 # spam-filtering-naive-bayes
-A simple Spam Filtering program using Naive Bayes
+A Simple Spam Filtering Program Using Naive Bayes
