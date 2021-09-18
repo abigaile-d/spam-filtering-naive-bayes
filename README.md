@@ -1,4 +1,4 @@
-# Spam Filtering using Naïve Bayes Classifier
+# Spam Filtering using Naïve Bayes Classifier in R
 
 The Naïve Bayes algorithm can be used for document classification, such as filtering spam e-mails from legitimate messages. The Naïve Bayes algorithm works by constructing the vocabulary of words that appears in the training set and counting the number of spam and ham documents where each words made an appearance. By using these statistics into the Naïve Bayes formula, the probability of a new document to be a spam or ham can be computed. The document will belong to the class where the posterior probability is higher.
 
